@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#282d85</color><!--#9900cc-->
+    <color name="colorPrimaryDark">#1a1d58</color><!--de1e83-->
+    <color name="colorAccent">#318740</color><!--#ffb300-->
+    <color name="colorAccentDark">#424242</color>
+    <color name="white">#ffffff</color>
+    <color name="white_alpha">#76ffffff</color>
+    <color name="tag_view_unselected">#ce707b70</color>
+    <color name="background_inactive_transparent">#1A424242</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="background_inactive">#80424242</color>
+    <color name="icon_label">#424242</color>
+    <color name="bg_widget">#f0f0f0</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="list_background">#67757575</color>
+    <color name="popup_error">#d50000</color>
+    <color name="popup_progress">#75306f</color>
+    <color name="popup_message">#689f38</color>
+    <color name="label_icon_color">#de1e83</color>
+    <color name="current_course">#1b5e20</color>
+    <color name="shadow">#757575</color>
+    <color name="color_previous">#96e4c65b</color>
+    <color name="color_today">#9664dd17</color>
+    <color name="color_tomorrow">#961565c0</color>
+
+</resources>
